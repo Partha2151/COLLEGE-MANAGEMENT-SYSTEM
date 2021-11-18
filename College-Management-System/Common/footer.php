@@ -4,9 +4,7 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12 segment-one md-mb-30 sm-mb-30">
             <h3>Imperial College</h3>
-            <p>This Project has been made by Muhammad Husnain Raza with the help of 
-              my Allah Almighty.
-              The prupose of this project is Learning Computer Languages.
+            <p>The purpose of this project is Learning Computer Languages.
               I hope you realy enjoyed to visit this project. Thanks!
             </p>
           </div>
@@ -35,11 +33,11 @@
             <h2>CONTACT DETAILS</h2>
               <p>Address: Imperial College of Business Studies,
                   Bahria Town, Shahkam Chowk, Canal Bank Road,53720 Lahore – Pakistan</p>
-              <p>Telephones: (+92 42) 35978525-32</p>
-              <p>E-mail: admissions@imperial.edu.pk</p>
+              <p>Telephones: (+91) 7550069632</p>
+              <p>E-mail: sarathyy215@gmail.com</p>
         </div>
       </div>
     </div>
     </div>
-  <p class="footer-bottom-text">CopyRights © reserved by Raza Programming and Code Academia.2020</p>
+  <p class="footer-bottom-text">CopyRights ©</p>
 </footer>
